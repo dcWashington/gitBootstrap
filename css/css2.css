@@ -1,0 +1,17 @@
+
+            .container, .container-fluid{
+                border: solid blue;
+            }
+            .row{
+                border: solid yellow;
+            }
+            .col, .col-sm-2, .col-sm-4, .col-sm-5{
+                border: solid green;
+            }
+            .jumbotron{
+                border: solid red;
+            }
+           
+            .container-fluid{
+                border: solid rgb(234, 0, 255);
+            }
